@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+  /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif */
+  /* font-family: 'Mulish', sans-serif;*/
+  /* font-family: 'Poppins', sans-serif;  */
+  font-family: 'Ubuntu', sans-serif;
+}
+.active-link {
+  text-decoration: underline;
+  /* Add additional styling for the active link */
+}
+
+/* for slider carousel cards  */
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+::-webkit-scrollbar {
+  width: 1rem;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 1rem;
+  background:rgba(21, 139, 21, 0.763);
+  transition: all 0.5s ease-in-out;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: red,
+}
+
+::-webkit-scrollbar-track {
+  background: #f9f9f9;
+}
+
+.footer {
+  background-color: #333;
+  padding: 20px 0;
+  color: #fff;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.logo-container {
+  width: 20%;
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+}
+
+.text-container {
+  width: 30%;
+}
+
+.text {
+  margin: 0;
+  padding: 5px 0;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding: 10px 0;
+  border-top: 1px solid #fff;
+}
