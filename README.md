@@ -1,4 +1,5 @@
 Food Fantasy
+
 Food Fantasy is a web application built using Vite, React, and Material-UI for the frontend, and Node.js, Express, and Cloudinary for the backend. Redux is used for state management.
 
 Table of Contents
