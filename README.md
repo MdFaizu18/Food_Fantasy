@@ -2,37 +2,6 @@ Food Fantasy
 
 Food Fantasy is a web application built using Vite, React, and Material-UI for the frontend, and Node.js, Express, and Cloudinary for the backend. Redux is used for state management.
 
-Table of Contents
-Features
-Installation
-Usage
-Backend Setup
-Frontend Setup
-Contributing
-License
-Acknowledgements
-Features
-User Authentication
-Recipe Management (CRUD)
-Image Upload with Cloudinary
-State Management with Redux
-Responsive UI with Material-UI
-Installation
-Prerequisites
-Make sure you have the following installed:
-
-Node.js
-npm or yarn
-MongoDB
-Clone the Repository
-bash
-Copy code
-git clone https://github.com/your-username/food-fantasy.git
-cd food-fantasy
-Usage
-Backend Setup
-Navigate to the backend directory:
-
 bash
 Copy code
 cd backend
@@ -66,27 +35,31 @@ Install the dependencies:
 bash
 Copy code
 npm install
-Create a .env file in the frontend directory with the following content:
 
-env
-Copy code
-VITE_API_URL=http://localhost:5000
-Start the frontend development server:
+Jut preview images of our projects
+Authentication Page
+![Screenshot (238)](https://github.com/user-attachments/assets/bf9dcbbc-efd2-41fa-925e-2abf1e5e4081)
+Landing Page
+![Screenshot (228)](https://github.com/user-attachments/assets/dbb06141-31ff-443b-b6eb-5b55dfddd716)
+Dish Items Page
+![Screenshot (231)](https://github.com/user-attachments/assets/24288b61-4c63-473f-90a9-3bb5e0ae75a5)
+Admin Dashboard Page
+![Screenshot (229)](https://github.com/user-attachments/assets/11332b45-3614-40dd-a73c-fc9c002fa5a1)
+Admin Food List Page
+![Screenshot (215)](https://github.com/user-attachments/assets/473ad7e8-95e2-4805-a2dc-4f5bd739fbea)
+Add Food Page
+![Screenshot (216)](https://github.com/user-attachments/assets/a5b07ff0-c66e-4f28-a255-71395267ab4a)
+![Screenshot (217)](https://github.com/user-attachments/assets/cda73d76-163e-470f-879c-9aa253425320)
+
+
+
+
+
+
+
 
 bash
 Copy code
 npm run dev
 Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding guidelines and standards.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgements
-Vite
-React
-Material-UI
-Node.js
-Express
-Cloudinary
-Redux
