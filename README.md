@@ -5,12 +5,14 @@ Food Fantasy is a web application built using Vite, React, and Material-UI for t
 bash
 Copy code
 cd backend
-Install the dependencies:
+Install the dependencies: 
+`npm install`
+`npm start` or `nodemon server`
 
 bash
 Copy code
-npm install
-npm run dev
+`npm install`
+`npm run dev`
 
 bash
 Copy code
@@ -18,14 +20,6 @@ npm start
 Frontend Setup
 Navigate to the frontend directory:
 
-bash
-Copy code
-cd ../frontend
-Install the dependencies:
-
-bash
-Copy code
-npm install
 
 Jut preview images of our projects
 
