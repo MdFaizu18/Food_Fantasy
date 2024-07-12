@@ -10,16 +10,7 @@ Install the dependencies:
 bash
 Copy code
 npm install
-Create a .env file in the backend directory with the following content:
-
-env
-Copy code
-MONGO_URI=your-mongodb-uri
-CLOUDINARY_CLOUD_NAME=your-cloudinary-cloud-name
-CLOUDINARY_API_KEY=your-cloudinary-api-key
-CLOUDINARY_API_SECRET=your-cloudinary-api-secret
-SECRET_KEY=your-jwt-secret-key
-Start the backend server:
+npm run dev
 
 bash
 Copy code
@@ -37,6 +28,7 @@ Copy code
 npm install
 
 Jut preview images of our projects
+
 Authentication Page
 ![Screenshot (238)](https://github.com/user-attachments/assets/bf9dcbbc-efd2-41fa-925e-2abf1e5e4081)
 Landing Page
@@ -50,11 +42,8 @@ Admin Food List Page
 Add Food Page
 ![Screenshot (216)](https://github.com/user-attachments/assets/a5b07ff0-c66e-4f28-a255-71395267ab4a)
 ![Screenshot (217)](https://github.com/user-attachments/assets/cda73d76-163e-470f-879c-9aa253425320)
-
-
-
-
-
+Admin Reversation Showing Page
+![Screenshot (237)](https://github.com/user-attachments/assets/473f2ba4-5b45-496f-a2e2-d94a10e94a0e)
 
 
 
