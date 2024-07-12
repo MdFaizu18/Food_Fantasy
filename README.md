@@ -47,8 +47,3 @@ Admin Reversation Showing Page
 
 
 
-bash
-Copy code
-npm run dev
-Contributing
-
