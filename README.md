@@ -71,7 +71,7 @@ Here the Preview of my project
 ### Admin Food List Page
 ![Screenshot (215)](https://github.com/user-attachments/assets/473ad7e8-95e2-4805-a2dc-4f5bd739fbea)
 
-### Add Food Page
+### Add Dishes Page
 ![Screenshot (216)](https://github.com/user-attachments/assets/a5b07ff0-c66e-4f28-a255-71395267ab4a)
 ![Screenshot (217)](https://github.com/user-attachments/assets/cda73d76-163e-470f-879c-9aa253425320)
 
