@@ -12,9 +12,9 @@ Food Fantasy is a web application built using Vite, React, and Material-UI for t
 1. **Install dependencies for both the client and server:**
 
     ```sh
-    cd client
+     cd client
     npm install
-    cd ../server
+    (in the same folder)
     npm install
     ```
 
